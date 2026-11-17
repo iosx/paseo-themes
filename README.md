@@ -2,11 +2,23 @@
 
 Three light themes for [Paseo](https://paseo.sh) that share a soft pastel palette built around a single accent color. Each theme is its own plugin.
 
-| Theme          | Plugin directory | Palette                                |
-| -------------- | ---------------- | -------------------------------------- |
-| Aura Iris        | `aura-iris`      | Periwinkle sidebar, indigo accent      |
-| Aura Moss        | `aura-moss`      | Sage sidebar, forest green accent      |
-| Aura Lagoon      | `aura-lagoon`    | Pale aqua sidebar, deep teal accent    |
+## Aura Iris
+
+![Aura Iris](previews/aura-iris.png)
+
+Periwinkle sidebar, indigo accent.
+
+## Aura Moss
+
+![Aura Moss](previews/aura-moss.png)
+
+Sage sidebar, forest green accent.
+
+## Aura Lagoon
+
+![Aura Lagoon](previews/aura-lagoon.png)
+
+Pale aqua sidebar, deep teal accent.
 
 ## Install
 
