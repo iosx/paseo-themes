@@ -1,0 +1,1 @@
+A light theme in the Aura series, with a warm near-white canvas, a pale sage sidebar, dark green text, and a forest green accent on buttons, selections, and focus rings. It applies to every Paseo surface, including panels, menus, diffs, and the terminal. Select Aura Moss under Settings, Appearance.

@@ -1,0 +1,7 @@
+{
+  "id": "paseo-theme-aura-iris",
+  "name": "Aura Iris",
+  "requirements": {
+    "paseo": ">=0.16.0"
+  }
+}

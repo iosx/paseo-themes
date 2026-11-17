@@ -1,0 +1,1 @@
+A light theme in the Aura series, with a cool near-white canvas, a pale aqua sidebar, deep teal text, and a deep teal accent on buttons, selections, and focus rings. It applies to every Paseo surface, including panels, menus, diffs, and the terminal. Select Aura Lagoon under Settings, Appearance.

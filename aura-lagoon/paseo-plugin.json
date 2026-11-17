@@ -1,0 +1,7 @@
+{
+  "id": "paseo-theme-aura-lagoon",
+  "name": "Aura Lagoon",
+  "requirements": {
+    "paseo": ">=0.16.0"
+  }
+}

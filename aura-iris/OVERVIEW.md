@@ -1,0 +1,1 @@
+A light theme in the Aura series, with a cool near-white canvas, a pale periwinkle sidebar, deep navy text, and a vivid indigo accent on buttons, selections, and focus rings. It applies to every Paseo surface, including panels, menus, diffs, and the terminal. Select Aura Iris under Settings, Appearance.

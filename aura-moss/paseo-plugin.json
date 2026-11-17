@@ -1,0 +1,7 @@
+{
+  "id": "paseo-theme-aura-moss",
+  "name": "Aura Moss",
+  "requirements": {
+    "paseo": ">=0.16.0"
+  }
+}
